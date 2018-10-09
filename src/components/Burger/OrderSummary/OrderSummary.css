@@ -1,0 +1,8 @@
+.OrderSummary {
+  text-align: center;
+}
+
+.OrderSummary ul {
+  text-align: left;
+  margin-left: 30px;
+}
