@@ -22,7 +22,7 @@ Run `npm start` to see the app in action. Navigate to `http://localhost:3000/`
 * Orders page to see previous orders
 * Firebase database as backend
 * Lazy loading
-* Action creators with `react-thunk`
+* Action creators with `redux-thunk`
 * Routings with `react-router-dom`
 * Redux store 
 * Http requests with `axios`
